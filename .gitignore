@@ -1,0 +1,30 @@
+# Результати збирання (build.cmd, Visual Studio)
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.lib
+*.exp
+
+# Службові файли Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+x64/
+Debug/
+Release/
+
+# Службові файли ОС та редакторів
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
